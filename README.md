@@ -1,4 +1,4 @@
-##AMAL Dashboard Overview
+# AMAL Dashboard Overview
 
 This dashboard explores sexual and reproductive health (SRH) service use among adolescent mothers participating in the AMAL Initiative. It compares outcomes before and after program participation and examines how education and knowledge influence healthcare utilization.
 
